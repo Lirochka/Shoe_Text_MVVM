@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShowText_MVVM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="fragment_btn_show_text">Fragment button show text</string>
+    <string name="show_text">Show text</string>
+</resources>
